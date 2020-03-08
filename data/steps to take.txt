@@ -1,0 +1,17 @@
+https://towardsdatascience.com/in-12-minutes-stocks-analysis-with-pandas-and-scikit-learn-a8d8a7b50ee7 
+
+Data Cleaning:
+1. Calculate rolling mean to smooth out data (get's rid of every day fluctuations to get the general shape)
+1. Scale values 
+
+
+
+
+Classification = ID3 or decision tree classifier:
+https://www.datacamp.com/community/tutorials/decision-tree-classification-python
+
+
+Clustering = K means: 
+https://medium.com/@saadahmed387/machine-learning-for-stock-clustering-using-k-means-algorithm-126bc1ace4e1
+
+ARM?
